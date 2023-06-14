@@ -1,7 +1,7 @@
 # Parallel hashtable - CUDA
 ## Tăiatu Iulian-Marius - 332CB
 
-### This project implements a `GPU-based hash table` called `GpuHashTable` using `CUDA` (Compute Unified Device Architecture). The `GpuHashTable` allows for efficient `insertion` and `retrieval` of key-value pairs using `GPU parallelism` and `auto-resizing` to maintain the `load factor` within a desired range.
+This project implements a `GPU-based hash table` called `GpuHashTable` using `CUDA` (Compute Unified Device Architecture). The `GpuHashTable` allows for efficient `insertion` and `retrieval` of key-value pairs using `GPU parallelism` and `auto-resizing` to maintain the `load factor` within a desired range.
 
 ## Table of contents
 * [Introduction](#introduction)
